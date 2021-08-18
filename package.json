@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start":"parcel 2-base-js/index.html",
-    "build":"parcel build index.html",
+    "build":"parcel build 2-base-js/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Carolina Melendez",
